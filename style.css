@@ -44,7 +44,7 @@ body {
   height: 35px;
 }
 
-.text-box {
+.header__text-box {
   position: absolute;
   top: 25%;
   left: 25%;
@@ -58,7 +58,7 @@ body {
   margin-bottom: 60px;
 }
 
-.heading-primary-main {
+.heading-primary--main {
   display: block;
   font-size: 60px;
   font-weight: 400;
@@ -68,7 +68,7 @@ body {
   animation-timing-function: ease-out;
 }
 
-.heading-primary-sub {
+.heading-primary--sub {
   display: block;
   font-size: 20px;
   font-weight: 400;
@@ -133,24 +133,24 @@ body {
   transform: translateY(-1px);
 }
 
-.btn-white {
+.btn--white {
   background-color: white;
   color: #0012ba;
 }
 
-.btn-list-property {
+.btn--list-property {
   position: absolute;
   top: 5%;
   left: 70%;
 }
 
-.btn-login {
+.btn--login {
   position: absolute;
   top: 5%;
   left: 85%;
 }
 
-.search {
+.header__search {
   border-radius: 100px;
   height: 40;
   padding: 15px 40px;
